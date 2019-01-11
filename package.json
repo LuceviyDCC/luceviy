@@ -1,0 +1,30 @@
+{
+  "name": "luceviy",
+  "version": "0.0.1",
+  "description": "test for luceviy",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node app/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuceviyDCC/luceviy.git"
+  },
+  "keywords": [
+    "luceviy",
+    "test"
+  ],
+  "author": "luceviy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuceviyDCC/luceviy/issues"
+  },
+  "homepage": "https://github.com/LuceviyDCC/luceviy#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-scripts": "^2.1.2"
+  }
+}
